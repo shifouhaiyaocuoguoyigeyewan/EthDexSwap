@@ -3,12 +3,12 @@
 ### Install Dependencies
 
 ```bash
-npm i
+yarn
 ```
 
 ### Run
 
 ```bash
-npm run start
+yarn start
 ```
 
